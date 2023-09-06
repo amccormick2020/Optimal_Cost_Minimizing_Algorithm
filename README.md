@@ -15,3 +15,4 @@ For i = 0, 1, · · · , m − 1 and j = 0, 1, · · · , n_list[i] − 1, y[i][
 instance.  
 4th “key” is C_list, “value” is a list of m numbers. For i = 0, 1, · · · , m−1, C_list[i] is a positive real number, which
 is the input parameter C specified in the definition of the “Multi-Line Fitting Problem” for the i-th instance.
+    instructions for running code in the .ipybn file
