@@ -1,6 +1,6 @@
 # Optimal Cost Minimizing Algorithm
 
-July 2023 - Minimizes error by fitting multiple lines of best fit over scatterplot datasets. If you are a student, do not copy my code. "An Aggie does not lie, cheat or steal or tolerate those who do".  
+July 2023 - Minimizes error by fitting multiple lines of best fit over scatterplot datasets.  
 
 Takes a python dictionary as input with 4 key-value pairs, example instances provided
 
