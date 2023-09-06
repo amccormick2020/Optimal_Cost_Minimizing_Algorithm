@@ -1,4 +1,4 @@
-# Line_Fitting_Algorithm
+# Optimal Error Minimizing ALgorithm Over Scatterplots
 Repo is public for showcasing purposes only. If you are a student, do not copy my code. "An Aggie does not lie, cheat or steal or tolerate those who do".  
   
 Minimizes error by fitting multiple lines of best fit over scatterplot datasets.  
